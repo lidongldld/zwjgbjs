@@ -101,6 +101,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git,
-  repo: https://github.com/lidongldld/zwjgbjs.git,
+  type: git
+  repo: https://github.com/lidongldld/zwjgbjs.git
   branch: gh-pages
