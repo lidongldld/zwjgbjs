@@ -243,12 +243,12 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/lidongldld
-        # Links to be shown on the bottom of the profile widget
-        social_links:
-            Github:
-                icon: fab fa-github
-                url: https://github.com/lidongldld
+        # follow_link: https://github.com/lidongldld
+        # # Links to be shown on the bottom of the profile widget
+        # social_links:
+        #     Github:
+        #         icon: fab fa-github
+        #         url: https://github.com/lidongldld
         #     Facebook:
         #         icon: fab fa-facebook
         #         url: https://facebook.com
