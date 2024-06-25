@@ -1,7 +1,7 @@
 ---
 title: hexo 配置学习
 date: 2024-06-24 21:52:48
-tags: hexo 配置学习
+tags: hexo
 ---
 <!-- # 测试完成 -->
 <!-- {% asset_img 2024-06-24T215559.png This is an example image %}-->
