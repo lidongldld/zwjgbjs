@@ -1,7 +1,7 @@
 ---
 title: git 使用问题收集
 date: 2024-06-27T00:28:59+08:00
-tags:
+tags: git
 ---
 
 ## 1、github 网络连接不上
