@@ -237,11 +237,9 @@ widgets:
         # Author's current location
         # location: 
         # URL or path to the avatar image
-        avatar: 
-            url: /images/avatar.png
-            rounded: true
+        avatar: /images/avatar.png
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
