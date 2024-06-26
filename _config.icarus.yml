@@ -238,6 +238,8 @@ widgets:
         # location: 
         # URL or path to the avatar image
         avatar: 
+            url: /images/avatar.png
+            rounded: true
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
