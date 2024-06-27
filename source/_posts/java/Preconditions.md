@@ -2,7 +2,6 @@
 title: Preconditions
 tags: java
 ---
-# Preconditions的用法
 源码分析：
 ``` java
 //检查参数（expression）是否合法，若为false，抛出IllegalArgumentException异常

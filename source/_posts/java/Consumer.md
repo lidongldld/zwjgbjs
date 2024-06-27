@@ -2,7 +2,6 @@
 title: Consumer
 tags: java
 ---
-# Consumer
 ## 使用Lambda表达式创建Consumer
 例1 基础类型操作
 ``` java
