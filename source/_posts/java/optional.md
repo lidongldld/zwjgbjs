@@ -1,5 +1,5 @@
 ---
-title: optional
+title: java optional
 tags: java
 ---
 Optional 类提供了一种优雅的方式来处理可能为空的值。

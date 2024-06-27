@@ -1,5 +1,5 @@
 ---
-title: Consumer
+title: java Consumer
 tags: java
 ---
 ## 使用Lambda表达式创建Consumer
